@@ -1,6 +1,6 @@
 {
   "title": "Stackbit Fresh Theme",
-  "layout_style": "default",
+  "layout_style": "overflow",
   "palette": "orange",
   "header": {
     "title": "Stackbit Fresh",
